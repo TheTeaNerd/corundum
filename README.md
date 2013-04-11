@@ -17,6 +17,8 @@ The box is based on the precise64.box / Ubuntu 12.04 provided by Vagrant
   - PostgreSQL v9.1 ( Currently untested )
 - Javascript Runtime
   - Node.js v0.10.0
+- Util
+  - VIM
 
 ## Getting Started
 
