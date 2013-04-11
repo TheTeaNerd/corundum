@@ -39,7 +39,7 @@ Vagrant::Config.run do |config|
       rvm: {
         user_installs: [
           {
-            version:      '1.18.21',
+            version:      '1.19.1',
             user:         'vagrant',
             rubies:       ['1.9.3', '2.0.0'],
             default_ruby: '1.9.3',
